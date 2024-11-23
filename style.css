@@ -11,3 +11,12 @@ h1{
     padding: 10px;
     margin: 10px;
 }
+p{
+    font-size: 1rem;
+    color: cadetblue;
+}
+div{
+    width: 300px;
+    height: 50px;
+    background-color: bisque;
+}
